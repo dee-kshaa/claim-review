@@ -16,3 +16,4 @@ claim-review-code.zip
 dataset/
 data/claims/
 output.csv
+.DS_Store
