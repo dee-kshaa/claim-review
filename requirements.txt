@@ -1,0 +1,15 @@
+# Core — CPU-only, no GPU required
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+
+# Data processing
+pandas>=2.2.0
+numpy>=1.26.0
+opencv-python-headless>=4.9.0
+Pillow>=10.3.0
+
+# Evaluation
+scikit-learn>=1.4.0
+
+# Dev / testing
+pytest>=8.2.0

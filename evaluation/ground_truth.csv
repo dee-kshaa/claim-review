@@ -1,0 +1,7 @@
+claim_id,decision,damage_type,object_part,severity
+CLM001,SUPPORTED,dent,bumper,MEDIUM
+CLM002,SUPPORTED,cracked_screen,screen,HIGH
+CLM003,SUPPORTED,crush_damage,corner,HIGH
+CLM004,SUPPORTED,scratch,door,LOW
+CLM005,SUPPORTED,broken_hinge,hinge,MEDIUM
+CLM006,SUPPORTED,water_damage,keyboard,HIGH

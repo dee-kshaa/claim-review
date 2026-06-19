@@ -1,0 +1,7 @@
+claim_id,user_id,conversation_text,image_filenames
+CLM001,USR001,"My car was hit in a parking lot. There is a large dent on the front bumper and the paint is scraped off.",car_bumper_dent.jpg
+CLM002,USR002,"I dropped my laptop and now the screen has a crack running across the middle from top left to bottom right.",laptop_screen_crack.jpg
+CLM003,USR003,"The package I received was completely crushed. The corners are bent and there's moisture damage on the bottom.",package_crush.jpg|package_side.jpg
+CLM004,USR004,"Someone scratched my car door. Long scratch on driver side rear door.",car_door_scratch.jpg
+CLM005,USR001,"My laptop hinge is broken. The screen is loose and wobbles when I try to open it.",laptop_hinge_damage.jpg
+CLM006,USR005,"There is water damage to my laptop keyboard. Spilled coffee on it.",laptop_water.jpg
