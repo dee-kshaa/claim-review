@@ -3,7 +3,9 @@
 AI-powered damage claim verification using vision-language models.
 
 ## Architecture
+
 ```
+![System Architecture](assets/architecture.png)
 Claim Parser → Image Analyzer → Evidence Matcher → Risk Detector → Decision Engine → Explanation Generator
 
 The system follows a modular evidence-review pipeline that processes claim conversations, image evidence, user history, and evidence requirements before generating the final output.csv.
