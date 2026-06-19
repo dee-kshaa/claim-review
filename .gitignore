@@ -11,3 +11,8 @@ claim-review-code.zip
 
 # Uncomment next line if you do NOT want to upload challenge dataset
 # data/claims/
+
+# HackerRank datasets
+dataset/
+data/claims/
+output.csv
